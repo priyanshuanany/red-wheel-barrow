@@ -87,3 +87,6 @@ async function sendMessage(channel, message) {
     text: message,
   });
 }
+
+// SLACK_OAUTH_TOKEN=xoxb-4050746955520-4029616216003-7NDtYXH3E5hplNg9XNn2gGOT
+// API_KEY=9B0WP22O6PQIWRKB
