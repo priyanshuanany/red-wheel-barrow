@@ -15,4 +15,3 @@
 
 > In app.js, first thing we are going to do is import our rtm client this is our real-time messaging client so we can subscribe to events from slack then we need to initialize our client and we need to do with a token
 
-> not slash command because it require apis and web hooks 

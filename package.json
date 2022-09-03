@@ -20,6 +20,9 @@
   "dependencies": {
     "@slack/rtm-api": "^6.0.0",
     "@slack/web-api": "^6.7.2",
+    "alphavantage": "^2.3.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
     "esm": "^3.2.25"
   }
 }
